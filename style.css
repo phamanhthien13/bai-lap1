@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container{
+    width: 1500px;
+    height: 800px;
+    margin-left: 0px;
+    margin-right: auto;
+    padding-left: 231px;
+    background-color: white;
+    
+
+}
+.header{
+   width: 2000px;
+   height: 52px;
+   margin-left: -535px;
+   padding-right: 10px;
+   margin-right: -326px;
+   margin-top: -17px;
+   background-color: #eee; 
+}
+.top-header > img{
+    width: 29px;
+    height: 18px;
+    margin-right: 1148px;
+    margin-bottom: -28px;
+    background-color:#eee;
+}
+.top-header p{
+    width: 303px;
+    height: 26px;
+    background-color:#eee;
+    margin-right: 809px;
+    margin-top: 7px;
+    
+}
+.top-header .top-middle{
+    width: 238px;
+    height: 26px;
+    background-color:#eee;
+    margin-right: 344px;
+    margin-top: -26px;
+}
+.icon{
+    width: 530px;
+    height: 28px;
+    background-color:#eee;
+    margin-right: -317px;
+    margin-top: -26px;
+    text-align: left;
+}
+.icon button{
+    width: 52px;
+    height: 23px;
+    border: none;
+}
+.account{
+    width: 335px;
+    height: 25px;
+    margin-right: -1340px;
+    margin-top: -29px;
+    background-color:#eee;
+}
+.banner{
+    width: 1500px;
+    height: auto;
+
+}
+.menu{
+    width: 1500px;
+    height: 22px;
+    margin-left: 10px;
+     
+}
+.menu ul{
+    margin-top: 20px;
+}
+.menu ul li{
+    display: inline-block;
+    
+    
+
+}
+.menu ul li a{
+
+    text-decoration: none;
+    color: black;
+    padding: 7px 10px;
+
+}
+.menu ul > hr{
+    width: 1406px;
+    height: 3px;
+    background-color: red;
+}
+.content{
+    width: 1500px;
+    height: auto;
+}
+.left{
+    width: 700px;
+    background-color: white;
+    margin-left: -686px;
+}
+.top {
+    width: 84px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: -21px;
+    margin-right: -979px;
+    background-color:#eee;
+   
+}
+.left .top > img{
+    margin-right: 15px;
+    text-align: left;
+}
+.left .top  > p{
+    font-size: 16px;
+    width: 10px;
+    height: 10px;
+    margin-top: -20px;
+    margin-right: -2px;
+}
+.left h2{
+    width: 149px;
+    height: 36px;
+    margin-right: 556px;
+    text-align: left;
+    background-color: #eee;
+}
+.left hr{
+    width: 147px;
+    height: 3px;
+    margin-left: -552px;
+    background-color: red;
+}
+
+.left img{
+    margin-left: -38px;
+    
+}
+.left p{
+    font-size: 180%;
+    text-align: left;
+    width: 666px;
+    height: 10px;
+    margin-top: 0px;
+    padding-right: 10px;
+    color: teal;
+    
+}
+.left p > span{
+    font-size: 70%;
+    color: tomato;
+}
+.left ul{
+    text-align: left;
+}
+.left ul > li{
+    font-size: 18px;
+    text-align: left;
+    margin-top: 140px;
+    margin-left: 17px;
+}
+.overflow-auto {
+    float: right;
+    width: 206px;
+    height: 297px;
+    margin-right: 558px;
+    margin-top: -475px;
+    overflow: auto;
+    background-color: white;
+    
+}
+.overflow-auto p{
+    font-size: 18px;
+    text-align: left;
+    width: 206px;
+    margin-top: -2px;
+    
+}
+.overflow-auto p > a{
+    color: black;
+    text-decoration: none;
+}
+.left-bottom{
+    width: 206px;
+    height: 177px;
+    margin-right: -176px;
+    margin-top: -174px;
+    background-color:white;
+}
+.left-bottom hr{
+    width: 77px;
+    height: 4px;
+    margin-right: 100px;
+    background-color: red;
+}
+.left-bottom h3{
+    width: 100px;
+    height: 28px;
+    margin-right: 107px;
+    background-color: #eee;
+}
+.left-bottom p{
+    text-align: left;
+    font-size: 23px;
+    margin-right: 113px;
+    margin-top:  3px;
+}
+.left-bottom img{
+    float: right;
+    margin-top: -160px;
+    margin-right: 6px;
+}
+.left-bottom span > p{
+    text-align: left;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.right{
+    width: 619px;
+    height: 517px;
+    margin-right: -1015px;
+    margin-top: -501px;
+    
+}
+
+.right .right-top{
+    background-color: white;
+    width: 510px;
+    margin-right: 106px;
+}
+.right-top p{
+    width: 485px;
+    margin-right: 67px;
+    text-align: left;
+    color: red;
+}
+p.mid{
+    width: 64px;
+    margin-right: -303px;
+    margin-top: -19px;
+    background-color: #eee;
+}
+p.rss{
+    width: 64px;
+    margin-right: -445px;
+    margin-top: -19px;
+    background-color: #eee;
+}
+.right-top  hr{
+    width: 505px;
+    height: 10px;
+    background-color: red;
+}
+.right .img-right{
+    float: left;
+    margin-top: -477px;
+    margin-right: 106px;
+}
+.footer{
+    width: auto;
+    height: 80px;
+    margin-top: 90px;
+    background-color: black;
+    color: white;
+}
